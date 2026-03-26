@@ -105,7 +105,7 @@ A web application that estimates the nutritional content of any food from a sing
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/Visual_AI_Calorie_Tracker.git
+git clone https://github.com/Mohamad-Hachem/Visual_AI_Calorie_Tracker.git
 cd Visual_AI_Calorie_Tracker
 
 # 2. Create and activate a virtual environment
